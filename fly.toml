@@ -1,0 +1,4 @@
+app = "hunterz-demo"
+primary_region = "iad"
+[build]
+  image = "hunterz/hunter-z:latest"

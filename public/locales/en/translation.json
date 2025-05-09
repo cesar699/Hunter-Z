@@ -1,0 +1,12 @@
+{
+  "anonymous_on": "Anonymous mode enabled",
+  "anonymous_off": "Anonymous mode disabled",
+  "tor_on": "Tor started",
+  "tor_off": "Tor stopped",
+  "upload_ok": "Task submitted",
+  "drag_here": "Drag APKs here or click to select",
+  "dynamic": "Run 60\u2011second dynamic analysis",
+  "perm_editor": "Permission Matrix",
+  "save": "Save",
+  "saved": "Saved"
+}

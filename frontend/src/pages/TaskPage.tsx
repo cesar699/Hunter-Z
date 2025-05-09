@@ -1,0 +1,1 @@
+export default ()=> <div>Task Page</div>;

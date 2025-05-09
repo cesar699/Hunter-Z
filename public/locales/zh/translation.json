@@ -1,0 +1,12 @@
+{
+  "anonymous_on": "\u533f\u540d\u6a21\u5f0f\u5df2\u5f00\u542f",
+  "anonymous_off": "\u533f\u540d\u6a21\u5f0f\u5df2\u5173\u95ed",
+  "tor_on": "Tor \u5df2\u542f\u52a8",
+  "tor_off": "Tor \u5df2\u5173\u95ed",
+  "upload_ok": "\u4efb\u52a1\u5df2\u63d0\u4ea4",
+  "drag_here": "\u62d6\u62fd APK \u5230\u6b64\u5904\u6216\u70b9\u51fb\u9009\u62e9",
+  "dynamic": "\u8fd0\u884c 60 \u79d2\u52a8\u6001\u5206\u6790",
+  "perm_editor": "\u6743\u9650\u77e9\u9635",
+  "save": "\u4fdd\u5b58",
+  "saved": "\u5df2\u4fdd\u5b58"
+}

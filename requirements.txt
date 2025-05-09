@@ -1,0 +1,10 @@
+flask
+flask-cors
+redis
+celery
+androguard
+weasyprint
+psutil
+stem
+pysocks
+jinja2
