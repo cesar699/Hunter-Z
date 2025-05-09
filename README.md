@@ -54,8 +54,8 @@
 ## ⚡ 快速体验（本地 Docker）
 
 ```bash
-git clone https://github.com/yourname/hunter-z.git
-cd hunter-z
+git clone https://github.com/cesar699/Hunter-Z.git
+cd Hunter-Z
 # 首次构建，约 5–10 分钟（含 docker-android）
 docker compose up -d --build
 # 浏览器 → http://localhost:8000
@@ -93,8 +93,8 @@ docker run --rm --runtime=runsc hello-world
 ### 4. 克隆仓库 & 配置
 
 ```bash
-git clone https://github.com/yourname/hunter-z.git
-cd hunter-z
+git clone https://github.com/cesar699/Hunter-Z.git
+cd Hunter-Z
 docker compose up -d --build
 ```
 
